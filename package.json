@@ -1,0 +1,12 @@
+{
+  "name": "test_traveloka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.10.0"
+  },
+  "devDependencies": {
+    "cypress-iframe": "^1.0.1"
+  }
+}
